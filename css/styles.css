@@ -73,7 +73,7 @@ body {
     padding: 0;
 }
 
-.exemplos ul, .exemplos ol {
+.exemplos ul, .exemplos ol, .exemplos dd {
     margin-left: 20px;
 }
 
